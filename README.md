@@ -31,7 +31,7 @@ A backend system that mimics the core functionality of Airbnb: managing hotels, 
 
 ### Data Flow Diagram (DFD)
 
-![DFD](./DFD_airBnb.png)
+![DFD](./DFD_airBnb.png) 
 
 ### Database View (DBeaver)
 
@@ -126,8 +126,8 @@ You can test all backend APIs using the provided Postman collection.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/RightMeProve/airBnbApp.git
-   cd airBnbApp
+   git clone https://github.com/ashwinbharadwaj16/AirBnb-Backend.git
+   cd AirBnb-Backend
    ```
 
 2. **Configure Database**
@@ -220,4 +220,4 @@ You can test all backend APIs using the provided Postman collection.
 
 ## 👨‍💻 Author
 
-* **Satyam Kumar** [@RightMeProve](https://github.com/RightMeProve)
+* **Ashwin Bharadwaj**(https://github.com/ashwinbharadwaj16)
